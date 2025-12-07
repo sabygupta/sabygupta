@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I lead **life sciences sales**, working with global **pharma** and **biotech** clients to shape **data‑driven**, **AI‑enabled** solutions that improve how therapies are developed and delivered. In parallel, I serve as a **professor** within the **UNC system**, teaching **data science** and helping students and professionals apply modern **analytics** and **machine learning** to real‑world healthcare and business problems.
+I lead **life sciences sales**, working with global **pharma** and **biotech** clients to shape **data‑driven**, **AI‑enabled** solutions that improve how therapies are developed and delivered. 
+
+In parallel, I serve as a **professor** within the **UNC system**, teaching **data science** and helping students and professionals apply modern **analytics** and **machine learning** to real‑world healthcare and business problems.
 
 I am also an **entrepreneur**, building and advising **ventures** at the intersection of **healthcare**, **data**, and **technology**, with a focus on scalable, **patient‑centric platforms**. Over the years, I have become an **expert in AI**, especially in how **large language models**, **biomedical concepts**, and **advanced analytics** can transform **clinical trials**, **commercial models**, and **decision‑making** in life sciences.
 
